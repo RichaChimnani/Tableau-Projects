@@ -1,8 +1,12 @@
 # Tableau Projects
 
 ### KPI Cards Visual Dashboard
+KPI Card Visual dashboard is designed to aggregate and display essential metrics that measure the success of an organization. The dashboard allows analysts to track key performance indicators (KPIs) such as sales growth, customer acquisition, and operational efficiency. By integrating data from various sources, it provides a holistic view of performance trends and outliers, enabling deeper insights into underlying causes. This comprehensive analysis aids in identifying patterns, forecasting future performance, and making informed strategic decisions to enhance overall business effectiveness.
+
 Tableau Public Link : https://public.tableau.com/app/profile/richa.balani/viz/KPICardsVisual_17357993810790/KPICards
+
 ![image](https://github.com/user-attachments/assets/5c418509-f839-41d4-bd94-9b7b3404ba32)
+
 
 
 
