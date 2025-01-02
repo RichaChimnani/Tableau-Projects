@@ -27,6 +27,7 @@ Tableau Public Link : https://public.tableau.com/app/profile/richa.balani/viz/Ba
 
 
 ### Financial Complaints Dashboard
+The Financial Complaints Dashboard is for complaint data, highlighting key metrics such as total complaints, resolution rates, and complaint types by product and submission method. This dashboard provides actionable insights for improving service quality and handling customer grievances effectively.
 Tableau Public Link : https://public.tableau.com/app/profile/richa.balani/viz/FinancialComplaintsDashboard_17357995414070/Dashboard
 ![image](https://github.com/user-attachments/assets/723b8856-9b9d-47d1-b519-a8520a5525cd)
 
