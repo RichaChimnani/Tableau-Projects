@@ -19,7 +19,10 @@ Tableau Public Link : https://public.tableau.com/app/profile/richa.balani/viz/Ma
 
 
 ### Banking Revenue Segmentation Dashboard
+The Banking Revenue Segment dashboard provides a detailed analysis of revenue across various business segments. It includes key metrics such as the number of customers, attributed cost, revenue, and profit, segmented by areas like banking, credit cards, and business. The dashboard utilizes visualizations such as heat maps, bar charts, and geographical maps to present data on revenue by customer channels, tenure, age groups, and locations. Filters allow for data refinement by date, segment, channel, state, age group, and tenure. This comprehensive analysis supports data-driven decision-making and strategic planning in the banking sector.
+
 Tableau Public Link : https://public.tableau.com/app/profile/richa.balani/viz/BankingDashboard_17357986395440/Segmentation
+
 ![image](https://github.com/user-attachments/assets/71aaa125-d3fb-401e-ad88-6caa9e85d896)
 
 
