@@ -33,7 +33,10 @@ Tableau Public Link : https://public.tableau.com/app/profile/richa.balani/viz/Fi
 
 
 ### Instagram Data Analysis Dashboard
+The Instagram Data Analysis Dashboard provides insights into user engagement by highlighting key metrics such as likes, most liked hashtags, posts by active users, and sign-ins per day. This comprehensive overview helps in understanding user behavior and platform trends.
+
 Tableau Public Link : https://public.tableau.com/app/profile/richa.balani/viz/InstagramCloneDataAnalysisDashboard_17357939353050/InstagramCloneDataAnalysisDashboard
+
 ![image](https://github.com/user-attachments/assets/1e8fdb6f-666c-4059-8694-a7f7bc9fccbe)
 
 
