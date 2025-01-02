@@ -11,7 +11,10 @@ Tableau Public Link : https://public.tableau.com/app/profile/richa.balani/viz/KP
 
 
 ### Marketing Campaign Performance Dashboard
+The Marketing Campaign Insights dashboard offers a detailed analysis of campaign performance, highlighting key metrics such as impressions, clicks, cost per conversion, conversion rate, and revenue. It includes segmentation by activity type, target audience, and traffic source, offering valuable insights into campaign effectiveness. The dashboard facilitates the identification of trends, underperforming areas, and high-impact channels, enabling data-driven optimization of marketing strategies. Its visualizations make complex data easily digestible, aiding in the clear communication of findings and actionable insights to stakeholders.
+
 Tableau Public Link : https://public.tableau.com/app/profile/richa.balani/viz/MarketingCampaignPerformanceDashboard_17357995862740/InsightsOverview
+
 ![image](https://github.com/user-attachments/assets/3c7ee833-0a07-48a4-9cd8-9e0c0e6d2a0e)
 
 
